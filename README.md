@@ -10,7 +10,7 @@ It covers scenarios such as login, search for products, and add-to-cart flow.
 - Java
 - Selenium WebDriver
 - TestNG
-- Maven (optional, if you use it for dependency management)
+- Maven 
 - IntelliJ IDEA (for development)
 
 ## How to Run
