@@ -12,7 +12,11 @@ Automation testing project using **Java**, **Selenium WebDriver**, **TestNG**, a
 - **TestNG** (Testing Framework)
 - **WebDriverManager** (Automatic Driver Management)
 
----
+---  
+## References
+- [Selenium Documentation](https://www.selenium.dev/documentation/)
+- [TestNG Documentation](https://testng.org/doc/)
+- [WebDriverManager GitHub](https://github.com/bonigarcia/webdrivermanager)  
 
 ## 🚀 How to Run
 1. **Clone this repository**  
