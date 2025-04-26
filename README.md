@@ -24,3 +24,4 @@ It covers scenarios such as login, search for products, and add-to-cart flow.
 ## Notes
 - ChromeDriver is managed automatically via WebDriverManager.
 - Update credentials and product search keywords inside the test as needed.
+
